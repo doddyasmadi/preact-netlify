@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum
 date: 2021-12-09T08:02:50.630Z
-cover: /assets/3e15adb5-4c53-4aaf-a2f3-806d430fcec3-777x437.jpeg
+cover: https://sbr.com.sg/sites/default/files/styles/article_node_main_image/public/2021-06/wilmar-sugar-cane-harvest_3_1.jpg?itok=2TxGgDBQ
 tags: lorem
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut risus in tellus tempus volutpat ac nec nisl. Phasellus dolor lectus, fringilla nec consectetur non, vehicula non nisi. Donec bibendum ipsum non diam fringilla dignissim. Vivamus feugiat leo justo, quis cursus nisl feugiat a. Phasellus non libero pellentesque, molestie ante ac, tristique est. Duis laoreet condimentum velit sit amet congue. Aliquam imperdiet sodales odio non vulputate. Phasellus quis dictum nunc, sit amet consequat justo. Praesent sed tristique eros. Vivamus vulputate, nibh id sagittis pellentesque, libero neque volutpat ante, scelerisque faucibus dolor augue eu leo. Cras vehicula volutpat nulla, ac blandit mi vehicula eget. Cras id eros sagittis, tincidunt erat sit amet, pharetra mi. Suspendisse placerat magna at nunc tincidunt, ac auctor justo pharetra. Curabitur pellentesque sed dolor et volutpat.
