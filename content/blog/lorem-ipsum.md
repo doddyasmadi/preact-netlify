@@ -1,6 +1,7 @@
 ---
 title: Lorem Ipsum
 date: 2021-12-09T08:02:50.630Z
+subtitle: Wilmar Plantation
 cover: https://sbr.com.sg/sites/default/files/styles/article_node_main_image/public/2021-06/wilmar-sugar-cane-harvest_3_1.jpg?itok=2TxGgDBQ
 tags: lorem
 ---
